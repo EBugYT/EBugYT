@@ -1,4 +1,1 @@
-Welcome to my github
-====================
-
-My name is EBug, and **I LOVE CODING ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=750&random=false&width=435&lines=Hi!+Im+EBug!;You+just+found+my+profile!;Have+a+look+arround+)](https://git.io/typing-svg)
